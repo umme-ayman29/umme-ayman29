@@ -41,6 +41,9 @@ I am a Computer Science and Engineering student at Patuakhali Science and Techno
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umme-ayman29&layout=compact&hide_border=true" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=umme-ayman29&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 ⭐ Thanks for visiting my profile!
